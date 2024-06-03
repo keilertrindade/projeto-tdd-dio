@@ -1,0 +1,14 @@
+C:\Users\Keiler\Desktop\ProjetoNovo\NewTalents\bin\Debug\net8.0\NewTalents.exe
+C:\Users\Keiler\Desktop\ProjetoNovo\NewTalents\bin\Debug\net8.0\NewTalents.deps.json
+C:\Users\Keiler\Desktop\ProjetoNovo\NewTalents\bin\Debug\net8.0\NewTalents.runtimeconfig.json
+C:\Users\Keiler\Desktop\ProjetoNovo\NewTalents\bin\Debug\net8.0\NewTalents.dll
+C:\Users\Keiler\Desktop\ProjetoNovo\NewTalents\bin\Debug\net8.0\NewTalents.pdb
+C:\Users\Keiler\Desktop\ProjetoNovo\NewTalents\obj\Debug\net8.0\NewTalents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Keiler\Desktop\ProjetoNovo\NewTalents\obj\Debug\net8.0\NewTalents.AssemblyInfoInputs.cache
+C:\Users\Keiler\Desktop\ProjetoNovo\NewTalents\obj\Debug\net8.0\NewTalents.AssemblyInfo.cs
+C:\Users\Keiler\Desktop\ProjetoNovo\NewTalents\obj\Debug\net8.0\NewTalents.csproj.CoreCompileInputs.cache
+C:\Users\Keiler\Desktop\ProjetoNovo\NewTalents\obj\Debug\net8.0\NewTalents.dll
+C:\Users\Keiler\Desktop\ProjetoNovo\NewTalents\obj\Debug\net8.0\refint\NewTalents.dll
+C:\Users\Keiler\Desktop\ProjetoNovo\NewTalents\obj\Debug\net8.0\NewTalents.pdb
+C:\Users\Keiler\Desktop\ProjetoNovo\NewTalents\obj\Debug\net8.0\NewTalents.genruntimeconfig.cache
+C:\Users\Keiler\Desktop\ProjetoNovo\NewTalents\obj\Debug\net8.0\ref\NewTalents.dll
